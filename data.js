@@ -1,15 +1,15 @@
 
 var cockail= [
-    {"name": "Watermelon", "image": "/images/watermilon.jpg","price":"120"},
-    {"name": "Fantastic Fresh Fruits", "image": "images/fantasticfreshfriut.jpg","price":"160"},
-    {"name": "Blue Lagoon", "image": "images/blue lagoon.jpg","price":"300"},
-    {"name": "Retro", "image": "images/retrococktail.jpg","price":"60"},
-    {"name": "Orange", "image": "images/orangecocktails.jpg","price":"50"},
-    {"name": "Strawberry", "image": "images/strawberry-coc.jpg","price":"150"},
-    {"name": "Lemon", "image": "images/lemon-cockail.jpg","price":"40"},
-    {"name": "BlackBerry", "image": "images/black-berry.jpg","price":"130"},
-    {"name": "Blue Berry", "image": "images/blue-berry.jpg","price":"80"},
-    {"name": "Aphrodisiac", "image": "images/aphrodisiac.jpg","price":"600"}
+    {"name": "Watermelon", "image": "./images/watermilon.jpg","price":"120"},
+    {"name": "Fantastic Fresh Fruits", "image": "./images/fantasticfreshfriut.jpg","price":"160"},
+    {"name": "Blue Lagoon", "image": "./images/blue lagoon.jpg","price":"300"},
+    {"name": "Retro", "image": "./images/retrococktail.jpg","price":"60"},
+    {"name": "Orange", "image": "./images/orangecocktails.jpg","price":"50"},
+    {"name": "Strawberry", "image": "./images/strawberry-coc.jpg","price":"150"},
+    {"name": "Lemon", "image": "./images/lemon-cockail.jpg","price":"40"},
+    {"name": "BlackBerry", "image": "./images/black-berry.jpg","price":"130"},
+    {"name": "Blue Berry", "image": "./images/blue-berry.jpg","price":"80"},
+    {"name": "Aphrodisiac", "image": "./images/aphrodisiac.jpg","price":"600"}
   ]
   var snackes= [
     {"name": "Bingo", "image": "./images/bingo.jpg","price":"10"},
@@ -24,7 +24,7 @@ var cockail= [
     {"name": "Moon Chips", "image": "./images/moonchips.jpg","price":"20"}
   ]
   var softdrink= [
-    {"name": "Coco-Cola", "image": "images/coco-cola-soft.jpg","price":"80"},
+    {"name": "Coco-Cola", "image": "./images/coco-cola-soft.jpg","price":"80"},
     {"name": "Thumbs-up", "image": "./images/thupsup-soft.jpg","price":"60"},
     {"name": "7up", "image": "./images/7up-sogt.jpg","price":"65"},
     {"name": "Sprite", "image": "./images/sprite-oft.jpg","price":"25"},
