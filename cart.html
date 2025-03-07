@@ -74,7 +74,7 @@
     <h1>Your Cart</h1>
     <div id="cart-container"></div>
     <div id="total">Total: Rs. 0</div>
-    <button class="payment">TOTAL PAYMENT</button>
+    <button class="payment" onclick="showAlert()">TOTAL PAYMENT</button>
 
     <script>
         const cartContainer = document.getElementById("cart-container");
@@ -122,6 +122,11 @@
 
         // Initial cart display
         updateCartDisplay();
+
+
+        function showAlert() {
+            alert("SUCCESSFULLY COMPPLETED YOUR PAYMENT!");
+        }
 
 
     
